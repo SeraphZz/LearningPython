@@ -1,4 +1,3 @@
 print('Hello world!!!')
-print('Please input your name:')
-name = input()
+name = input('Please input your name:')
 print('Hello,',name+'!')
