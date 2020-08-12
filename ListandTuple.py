@@ -8,4 +8,5 @@ print(classmate)
 classmate.insert(5,2016)
 print(classmate)
 roommate = ('zgz','wy','dyz','murat')
-print(roommate)
+for name in roommate:
+    print(name)
