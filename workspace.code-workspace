@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Tencent Files\\839958423\\FileRecv\\Computer Vision\\CS231n"
+		}
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "local",
+		"python.pythonPath": "D:\\anaconda3\\envs\\CS231n\\python.exe"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: 当前文件",
+				"type": "python",
+				"request": "launch",
+				"program": "${file}",
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}
